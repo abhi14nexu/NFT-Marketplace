@@ -71,7 +71,7 @@ const Footer = () => {
           color="text.secondary"
           gutterBottom
         >
-          &copy; NFT. 2022. MIT
+          &copy; NFT-Marketplace.2023.HBTU
         </Typography>
         {/* 
         <Typography

@@ -14,7 +14,7 @@ const Contact = () => {
           align={'center'}
           gutterBottom
         >
-          Subscribe to our newsletter
+          Contact us for queries
         </Typography>
         <Typography
           variant={'h6'}
@@ -22,7 +22,7 @@ const Contact = () => {
           color={'text.secondary'}
           align={'center'}
         >
-          Get real time updates and news.
+          HBTU help desk.
         </Typography>
       </Box>
       <Box maxWidth={600} margin={'0 auto'}>
